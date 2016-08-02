@@ -1,0 +1,10 @@
+#==== data
+text8
+text8.zip
+data/
+notMNIST.pickle
+notMNIST_large
+notMNIST_small
+*.png
+*.pickle
+runs/
